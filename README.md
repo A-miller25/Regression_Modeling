@@ -1,1 +1,1 @@
-# Regression_Modeling
+# This project extracts real world data from a Music & Mental Health Survey through Kaggle. A regression analysis was performed to find which predictors affected depression scores among the participants.
