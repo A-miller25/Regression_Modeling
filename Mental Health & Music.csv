@@ -1,0 +1,737 @@
+Age,Primary streaming service,Hours per day,While working,Fav genre,Frequency [Classical],Frequency [Country],Frequency [EDM],Frequency [K pop],Frequency [Rap],Anxiety,Depression,Insomnia,OCD,Music effects
+18,Spotify,3,Yes,Latin,Rarely,Never,Rarely,Very frequently,Very frequently,3,0,1,0,
+63,Pandora,1.5,Yes,Rock,Sometimes,Never,Never,Rarely,Rarely,7,2,2,1,
+18,Spotify,4,No,Video game music,Never,Never,Very frequently,Very frequently,Rarely,7,7,10,2,No effect
+61,YouTube Music,2.5,Yes,Jazz,Sometimes,Never,Never,Sometimes,Never,9,7,3,3,Improve
+18,Spotify,4,Yes,R&B,Never,Never,Rarely,Very frequently,Very frequently,7,2,5,9,Improve
+18,Spotify,5,Yes,Jazz,Rarely,Sometimes,Never,Very frequently,Very frequently,8,8,7,7,Improve
+18,YouTube Music,3,Yes,Video game music,Sometimes,Never,Rarely,Never,Never,4,8,6,0,Improve
+21,Spotify,1,Yes,K pop,Never,Never,Rarely,Very frequently,Rarely,5,3,5,3,Improve
+19,Spotify,6,Yes,Rock,Never,Very frequently,Never,Never,Never,2,0,0,0,Improve
+18,I do not use a streaming service.,1,Yes,R&B,Rarely,Rarely,Rarely,Never,Rarely,2,2,5,1,Improve
+18,Spotify,3,Yes,Country,Never,Very frequently,Never,Never,Never,7,7,4,7,No effect
+19,YouTube Music,8,Yes,EDM,Rarely,Never,Very frequently,Rarely,Sometimes,1,0,0,1,Improve
+,Spotify,3,Yes,Hip hop,Rarely,Never,Rarely,Sometimes,Rarely,9,3,2,7,Improve
+19,Spotify,2,Yes,Country,Never,Very frequently,Rarely,Never,Very frequently,2,1,2,0,Improve
+18,Spotify,4,Yes,Jazz,Very frequently,Rarely,Never,Never,Never,6,4,7,0,Improve
+17,Spotify,2,No,Pop,Rarely,Rarely,Never,Rarely,Sometimes,7,5,4,1,Worsen
+16,Spotify,8,Yes,Hip hop,Never,Never,Never,Never,Very frequently,8,8,4,3,Improve
+16,Spotify,12,Yes,Hip hop,Rarely,Never,Sometimes,Never,Sometimes,5,7,10,0,Improve
+17,Spotify,24,Yes,Rap,Rarely,Never,Never,Sometimes,Very frequently,7,5,0,3,Improve
+15,Spotify,3,No,Hip hop,Never,Never,Never,Never,Very frequently,7,3,0,2,Improve
+15,Apple Music,8,Yes,Hip hop,Rarely,Never,Sometimes,Very frequently,Very frequently,6,9,3,0,Improve
+17,Spotify,4,Yes,Rap,Never,Rarely,Rarely,Never,Very frequently,10,10,2,4,Improve
+19,I do not use a streaming service.,5,Yes,R&B,Rarely,Rarely,Sometimes,Never,Very frequently,6,7,5,4,Improve
+18,Spotify,2,Yes,Pop,Rarely,Rarely,Sometimes,Rarely,Never,3,3,8,6,No effect
+16,Other streaming service,3,Yes,Rock,Rarely,Rarely,Never,Never,Rarely,10,6,8,10,Improve
+18,Spotify,2,No,Pop,Sometimes,Rarely,Rarely,Very frequently,Sometimes,7,4,2,5,Improve
+14,Spotify,12,Yes,Rock,Sometimes,Sometimes,Rarely,Never,Very frequently,8,6,10,5,Improve
+18,YouTube Music,6,Yes,Pop,Sometimes,Rarely,Rarely,Never,Sometimes,3,2,1,2,Improve
+17,Spotify,2,Yes,Pop,Never,Very frequently,Rarely,Sometimes,Never,6,6,4,5,Improve
+17,Apple Music,1,Yes,Pop,Rarely,Never,Never,Never,Never,8,2,1,5,Improve
+20,Apple Music,5,Yes,Rock,Never,Rarely,Rarely,Never,Sometimes,7,7,2,0,Improve
+19,Spotify,2,Yes,Classical,Very frequently,Never,Never,Never,Never,4,4,4,3,No effect
+19,Spotify,6,Yes,Metal,Never,Never,Never,Rarely,Never,9,8,2,3,Improve
+17,Spotify,4,No,Rock,Rarely,Rarely,Rarely,Rarely,Sometimes,5,6,6,1,Improve
+16,Spotify,1,Yes,Classical,Very frequently,Never,Never,Never,Never,0,0,0,0,No effect
+18,Spotify,5,Yes,Pop,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,3,2,1,1,Improve
+21,Spotify,4,Yes,Pop,Never,Never,Rarely,Rarely,Rarely,6,8,0,2,Improve
+17,Other streaming service,3,Yes,Pop,Never,Never,Sometimes,Sometimes,Very frequently,2,0,4,0,No effect
+26,Other streaming service,0.5,No,Rock,Rarely,Never,Rarely,Never,Never,9,8,1,0,No effect
+20,Spotify,4,Yes,EDM,Rarely,Rarely,Very frequently,Sometimes,Sometimes,7,2,8,6,Improve
+23,YouTube Music,2,Yes,Video game music,Sometimes,Rarely,Never,Rarely,Rarely,4,2,3,4,Improve
+18,Spotify,5,Yes,Rock,Very frequently,Never,Never,Rarely,Sometimes,7,6,5,0,Improve
+37,YouTube Music,0.25,No,Video game music,Very frequently,Rarely,Never,Never,Never,3,2,10,0,No effect
+17,Spotify,3,Yes,Classical,Very frequently,Never,Very frequently,Sometimes,Very frequently,6,6,8,2,Improve
+18,Spotify,4,Yes,Metal,Rarely,Never,Never,Never,Very frequently,1,0,8,2,No effect
+17,I do not use a streaming service.,1,Yes,Folk,Never,Sometimes,Rarely,Never,Sometimes,7,3,1,5,Improve
+36,Spotify,1,No,Classical,Very frequently,Sometimes,Never,Never,Never,8,9,3,0,No effect
+24,Spotify,3,Yes,Rock,Rarely,Never,Rarely,Rarely,Never,9,6,4,3,Improve
+18,Spotify,5,Yes,Metal,Never,Never,Rarely,Never,Very frequently,7,9,5,0,Improve
+19,Spotify,3,Yes,Pop,Sometimes,Rarely,Sometimes,Rarely,Sometimes,7,4,2,4,No effect
+17,Apple Music,2,Yes,EDM,Never,Rarely,Very frequently,Never,Sometimes,0,0,0,0,Improve
+16,Spotify,6,Yes,K pop,Rarely,Never,Never,Very frequently,Very frequently,7,8,7,5,Improve
+23,Apple Music,1,No,Rap,Sometimes,Rarely,Sometimes,Never,Very frequently,10,6,3,10,No effect
+23,Spotify,12,Yes,Pop,Very frequently,Rarely,Never,Rarely,Rarely,3,7,5,5,No effect
+22,Spotify,4,Yes,Rock,Rarely,Never,Rarely,Never,Rarely,8,7,4,3,Improve
+16,Apple Music,2,Yes,Classical,Very frequently,Never,Never,Never,Rarely,0,0,1,3,Improve
+18,Spotify,6,Yes,Rock,Rarely,Never,Never,Never,Sometimes,8,6,2,10,No effect
+42,I do not use a streaming service.,0,,Rock,Rarely,Rarely,Never,Never,Never,9,0,10,0,No effect
+23,Spotify,7,Yes,Folk,Rarely,Very frequently,Never,Never,Rarely,6,4,2,3,Improve
+23,I do not use a streaming service.,1,Yes,Video game music,Sometimes,Sometimes,Sometimes,Rarely,Rarely,7,0,0,2,Improve
+19,YouTube Music,1,No,K pop,Never,Never,Never,Very frequently,Never,10,1,0,0,Improve
+22,Pandora,1,No,Rock,Rarely,Never,Sometimes,Never,Never,8,7,0,5,Improve
+15,Other streaming service,2,Yes,Rock,Never,Never,Rarely,Never,Never,3,2,6,7,Improve
+25,Spotify,2,No,Metal,Rarely,Rarely,Rarely,Rarely,Rarely,5,5,3,1,No effect
+32,Spotify,5,Yes,Rock,Sometimes,Never,Rarely,Rarely,Rarely,10,10,3,1,Worsen
+36,Spotify,6,Yes,Metal,Very frequently,Never,Rarely,Sometimes,Never,5,4,10,2,Improve
+24,Spotify,3,No,Rock,Sometimes,Sometimes,Never,Never,Never,0,0,8,0,No effect
+29,Spotify,4,No,Hip hop,Rarely,Sometimes,Rarely,Rarely,Sometimes,8,8,5,10,Improve
+41,Apple Music,3,Yes,Metal,Sometimes,Never,Sometimes,Never,Rarely,10,7,8,0,Improve
+36,I do not use a streaming service.,2,Yes,Rock,Sometimes,Rarely,Very frequently,Never,Rarely,7,3,1,1,Improve
+19,YouTube Music,3,Yes,Rock,Rarely,Sometimes,Sometimes,Never,Very frequently,8,7,4,0,Improve
+31,Spotify,2,Yes,Rock,Never,Sometimes,Never,Rarely,Never,10,2,0,5,No effect
+16,Spotify,4,Yes,Rock,Sometimes,Rarely,Rarely,Rarely,Rarely,9,8,1,2,Improve
+26,Spotify,2,Yes,Hip hop,Rarely,Rarely,Very frequently,Rarely,Very frequently,6,3,1,1,Improve
+22,Apple Music,0.5,No,Hip hop,Sometimes,Never,Never,Never,Very frequently,7,7,0,1,No effect
+16,Spotify,5,Yes,Jazz,Sometimes,Rarely,Never,Very frequently,Very frequently,7,7,8,4,Improve
+17,Spotify,5,Yes,Metal,Never,Sometimes,Rarely,Never,Never,4,1,0,0,Improve
+19,Spotify,10,Yes,R&B,Never,Rarely,Very frequently,Very frequently,Rarely,7,2,1,5,Improve
+18,YouTube Music,2,No,EDM,Sometimes,Rarely,Very frequently,Never,Sometimes,9,0,5,10,Improve
+18,YouTube Music,4,Yes,Hip hop,Never,Never,Rarely,Sometimes,Very frequently,2,7,1,1,Improve
+19,Spotify,5,No,Rock,Rarely,Never,Never,Never,Rarely,10,8,7,0,Improve
+19,Spotify,3,Yes,Jazz,Rarely,Never,Rarely,Rarely,Sometimes,3,0,0,0,Improve
+22,Spotify,2,Yes,K pop,Never,Never,Very frequently,Very frequently,Sometimes,7,8,5,1,No effect
+16,Spotify,2.5,Yes,Rock,Rarely,Sometimes,Never,Never,Never,2,1,0,0,Improve
+19,Spotify,3,Yes,R&B,Rarely,Never,Sometimes,Very frequently,Very frequently,5,4,0,1,Improve
+37,Spotify,1,Yes,Rock,Rarely,Rarely,Rarely,Rarely,Rarely,9,10,6,10,No effect
+14,Spotify,7,Yes,Jazz,Rarely,Never,Very frequently,Never,Never,2,0,0,0,Improve
+33,I do not use a streaming service.,1,No,Metal,Rarely,Sometimes,Sometimes,Never,Sometimes,5,2,5,1,Improve
+26,Spotify,1,No,R&B,Rarely,Sometimes,Never,Never,Very frequently,3,2,0,0,No effect
+32,Spotify,3,Yes,Hip hop,Never,Never,Rarely,Never,Very frequently,2,0,7,0,No effect
+30,Spotify,5,Yes,Metal,Sometimes,Rarely,Never,Never,Never,7,6,6,2,No effect
+43,I do not use a streaming service.,6,Yes,Video game music,Sometimes,Rarely,Very frequently,Sometimes,Never,5,4,8,3,No effect
+24,Spotify,4,Yes,Classical,Very frequently,Rarely,Rarely,Never,Never,4,6,5,3,Improve
+36,YouTube Music,1,Yes,Rock,Sometimes,Rarely,Never,Never,Rarely,6,2,3,1,Improve
+19,YouTube Music,4,Yes,Video game music,Rarely,Never,Rarely,Never,Never,8,2,1,6,Improve
+22,Spotify,10,Yes,Metal,Rarely,Very frequently,Never,Never,Rarely,9,6,0,6,Improve
+20,Spotify,3,No,EDM,Rarely,Sometimes,Very frequently,Rarely,Sometimes,0,3,7,0,Improve
+31,Spotify,2,No,Rock,Rarely,Rarely,Never,Never,Rarely,8,9,6,2,Improve
+19,Spotify,4,Yes,Metal,Sometimes,Never,Never,Rarely,Sometimes,4,1,1,1,Improve
+15,Spotify,8,Yes,Rock,Never,Never,Never,Never,Never,8,7,5,0,Improve
+18,Spotify,2,No,Metal,Never,Never,Rarely,Never,Rarely,3,4,6,1,Improve
+25,I do not use a streaming service.,0.5,No,Classical,Very frequently,Never,Never,Never,Never,1,1,3,1,Improve
+17,Apple Music,5,Yes,Metal,Never,Rarely,Never,Never,Sometimes,10,8,6,7,No effect
+28,YouTube Music,1,No,Rock,Rarely,Never,Very frequently,Never,Never,6,6,2,0,No effect
+20,Spotify,3,Yes,Rock,Never,Never,Rarely,Sometimes,Rarely,6,7,0,0,Improve
+21,YouTube Music,2,Yes,Metal,Sometimes,Rarely,Never,Never,Rarely,8,4,10,0,No effect
+41,Spotify,3,Yes,Pop,Sometimes,Never,Rarely,Rarely,Sometimes,9,7,6,2,No effect
+20,Spotify,2,Yes,Pop,Never,Never,Sometimes,Never,Rarely,7,4,6,5,Improve
+34,Other streaming service,4,Yes,Metal,Rarely,Never,Sometimes,Never,Sometimes,6,7,0,0,No effect
+21,YouTube Music,3,Yes,Metal,Sometimes,Rarely,Never,Never,Never,10,0,10,10,Improve
+23,Spotify,2,Yes,Metal,Rarely,Never,Never,Never,Never,6,3,0,1,Improve
+16,Spotify,3,No,Pop,Rarely,Never,Never,Never,Rarely,7,5,5,3,Improve
+19,YouTube Music,4,Yes,Pop,Rarely,Rarely,Rarely,Rarely,Sometimes,7,10,5,0,Improve
+22,Spotify,2,Yes,Rock,Sometimes,Never,Never,Never,Sometimes,8,6,0,0,Improve
+19,Spotify,8,Yes,K pop,Very frequently,Never,Rarely,Very frequently,Rarely,4,3,0,0,Improve
+23,Spotify,4,Yes,Hip hop,Rarely,Never,Sometimes,Very frequently,Very frequently,7,6,7,5,Improve
+23,Spotify,2,No,Metal,Never,Never,Rarely,Never,Rarely,7,3,2,3,Improve
+22,Spotify,1,No,EDM,Never,Never,Very frequently,Never,Sometimes,2,7,5,0,Improve
+17,Spotify,3,Yes,Rock,Rarely,Sometimes,Sometimes,Rarely,Sometimes,7,8,6,5,Improve
+28,Spotify,0.5,No,Folk,Rarely,Sometimes,Never,Never,Rarely,4,7,1,0,Improve
+23,Spotify,2,No,Rock,Never,Never,Never,Sometimes,Sometimes,7,8,5,1,No effect
+19,Apple Music,3,Yes,Rock,Never,Sometimes,Sometimes,Never,Sometimes,5,2,8,6,Improve
+17,Spotify,2,Yes,Hip hop,Rarely,Never,Sometimes,Rarely,Very frequently,10,7,4,2,Improve
+21,YouTube Music,1,No,Rock,Never,Rarely,Never,Never,Sometimes,6,5,0,0,No effect
+29,Other streaming service,5,Yes,Jazz,Rarely,Never,Never,Never,Never,7,2,3,1,Improve
+22,Spotify,10,No,EDM,Sometimes,Sometimes,Very frequently,Never,Never,4,7,7,3,Improve
+18,Spotify,4,Yes,Pop,Sometimes,Rarely,Sometimes,Sometimes,Rarely,4,5,6,5,Improve
+13,Spotify,2,Yes,Rock,Rarely,Never,Sometimes,Never,Very frequently,7,10,5,6,Worsen
+24,Spotify,1,No,Metal,Sometimes,Never,Rarely,Never,Sometimes,6,4,5,0,Improve
+35,Spotify,6,Yes,Rock,Sometimes,Rarely,Sometimes,Rarely,Rarely,4,1,3,1,No effect
+29,YouTube Music,1,Yes,Video game music,Sometimes,Never,Never,Never,Never,6,6,1,2,Improve
+28,Spotify,6,Yes,Rock,Sometimes,Rarely,Never,Never,Rarely,10,8,7,1,Improve
+32,Spotify,7,Yes,Pop,Sometimes,Never,Rarely,Never,Very frequently,10,8,2,8,Improve
+32,Other streaming service,1,No,EDM,Rarely,Never,Very frequently,Never,Rarely,3,6,2,0,No effect
+21,Spotify,3,Yes,Rock,Never,Never,Never,Never,Rarely,8,9,2,0,Improve
+18,Spotify,2,Yes,Video game music,Never,Never,Sometimes,Never,Never,8,3,8,7,Improve
+19,Spotify,3,Yes,Classical,Very frequently,Rarely,Never,Rarely,Never,3,3,1,2,Improve
+18,Apple Music,2,Yes,Pop,Rarely,Rarely,Never,Very frequently,Rarely,6,5,2,0,Improve
+16,YouTube Music,3,Yes,Pop,Rarely,Sometimes,Sometimes,Sometimes,Rarely,0,0,4,0,No effect
+25,Spotify,1.5,Yes,Pop,Sometimes,Rarely,Rarely,Never,Rarely,6,5,0,2,Improve
+17,Spotify,4,Yes,Lofi,Very frequently,Never,Never,Sometimes,Sometimes,3,8,0,0,Improve
+16,Spotify,2,Yes,Rap,Very frequently,Never,Never,Sometimes,Very frequently,1,8,0,0,No effect
+27,Spotify,10,Yes,Metal,Sometimes,Never,Sometimes,Never,Sometimes,5,6,6,3,Improve
+53,Spotify,7,Yes,Pop,Very frequently,Sometimes,Very frequently,Rarely,Rarely,0,0,0,0,Improve
+25,Spotify,1,Yes,EDM,Never,Never,Very frequently,Rarely,Never,0,8,0,0,Improve
+34,Spotify,2,No,Metal,Never,Never,Rarely,Never,Never,3,7,0,0,Improve
+22,Other streaming service,6,Yes,Jazz,Sometimes,Rarely,Very frequently,Rarely,Very frequently,8,8,8,5,Improve
+17,Spotify,2,Yes,Jazz,Sometimes,Never,Never,Never,Rarely,5,2,3,4,Improve
+26,Spotify,3,Yes,Folk,Rarely,Rarely,Never,Never,Rarely,8,8,3,0,Improve
+19,Spotify,8,Yes,EDM,Never,Never,Very frequently,Rarely,Sometimes,6,8,8,0,Improve
+21,Spotify,3,Yes,Pop,Rarely,Very frequently,Sometimes,Never,Very frequently,6,8,6,0,Worsen
+32,Spotify,3,Yes,Rock,Rarely,Rarely,Sometimes,Never,Rarely,6,6,7,5,Improve
+21,I do not use a streaming service.,3,Yes,Rock,Never,Never,Never,Never,Sometimes,9,10,3,0,No effect
+25,Spotify,2,No,Pop,Rarely,Never,Never,Never,Very frequently,7,7,5,0,Improve
+26,Spotify,1,No,Rock,Rarely,Never,Rarely,Never,Sometimes,10,7,2,8,No effect
+21,Spotify,2,Yes,Metal,Rarely,Never,Never,Never,Rarely,1,3,0,6,No effect
+17,Spotify,2,Yes,Pop,Rarely,Never,Never,Very frequently,Sometimes,5,3,2,1,Improve
+28,I do not use a streaming service.,4,Yes,Rock,Rarely,Sometimes,Rarely,Rarely,Rarely,6,8,1,6,Improve
+41,YouTube Music,4,Yes,Pop,Rarely,Never,Sometimes,Rarely,Sometimes,7,2,0,7,Improve
+18,Spotify,1,Yes,Metal,Rarely,Never,Rarely,Never,Sometimes,6,9,9,0,Improve
+22,Spotify,2,No,R&B,Sometimes,Never,Never,Very frequently,Rarely,1,1,4,1,No effect
+18,Other streaming service,2,Yes,K pop,Rarely,Never,Never,Very frequently,Never,0,2,0,0,
+49,Other streaming service,1,Yes,EDM,Sometimes,Never,Very frequently,Rarely,Rarely,8,8,2,0,Improve
+21,Spotify,3,Yes,Metal,Sometimes,Rarely,Rarely,Rarely,Sometimes,3,3,7,0,No effect
+27,Spotify,10,Yes,Metal,Never,Rarely,Sometimes,Rarely,Sometimes,8,8,3,0,Improve
+19,Spotify,1,No,Metal,Never,Never,Never,Never,Rarely,6,4,0,3,No effect
+27,Spotify,3,Yes,Metal,Sometimes,Never,Never,Never,Sometimes,1,0,0,0,Improve
+27,Spotify,1.5,Yes,Rock,Never,Never,Never,Rarely,Sometimes,5,5,4,4,Improve
+19,Spotify,3,Yes,K pop,Sometimes,Never,Never,Very frequently,Rarely,8,9,6,0,
+42,YouTube Music,2.5,Yes,Rock,Sometimes,Rarely,Very frequently,Never,Rarely,8,8,7,6,Improve
+60,Pandora,2,Yes,Gospel,Rarely,Sometimes,Never,Never,Never,3,0,2,0,Improve
+19,YouTube Music,5,Yes,Metal,Sometimes,Rarely,Rarely,Never,Sometimes,0,5,1,0,No effect
+20,Apple Music,2,Yes,Pop,Rarely,Never,Never,Never,Rarely,6,3,0,0,Improve
+28,Spotify,2,No,Metal,Rarely,Never,Never,Never,Never,1,7,5,1,Improve
+16,I do not use a streaming service.,2,No,Video game music,Sometimes,Rarely,Never,Rarely,Rarely,4,2,1,1,No effect
+18,Spotify,2,Yes,R&B,Sometimes,Never,Never,Never,Rarely,5,6,0,1,No effect
+34,Spotify,1,Yes,Rock,Rarely,Never,Very frequently,Very frequently,Never,1,0,0,0,No effect
+18,YouTube Music,1.5,Yes,Pop,Never,Rarely,Rarely,Sometimes,Rarely,8,6,5,2,Improve
+21,Spotify,5,Yes,Folk,Sometimes,Rarely,Never,Never,Rarely,9,4,0,3,Improve
+38,Spotify,0.5,No,Rock,Never,Never,Rarely,Never,Rarely,4,6,6,4,Improve
+17,Spotify,2,Yes,Rock,Never,Rarely,Rarely,Rarely,Rarely,7,3,1,5,Improve
+35,Other streaming service,0.5,No,Pop,Sometimes,Never,Never,Never,Never,10,3,1,0,No effect
+21,I do not use a streaming service.,2,Yes,Rock,Rarely,Sometimes,Rarely,Never,Very frequently,8,8,3,0,Improve
+25,Apple Music,2.5,Yes,R&B,Rarely,Never,Never,Never,Sometimes,7,6,5,4,Improve
+18,Spotify,2,Yes,K pop,Very frequently,Never,Never,Very frequently,Sometimes,7,2,3,5,Improve
+16,Apple Music,2,No,Pop,Never,Sometimes,Rarely,Rarely,Rarely,10,3.5,5,10,Improve
+19,Spotify,1,Yes,Pop,Rarely,Sometimes,Rarely,Never,Sometimes,7,5,1,2,Improve
+31,Spotify,4,Yes,Classical,Very frequently,Never,Rarely,Never,Sometimes,6,8,9,5,Improve
+26,Spotify,5,Yes,Rock,Never,Never,Sometimes,Never,Never,2,9,2,1,No effect
+16,Spotify,2,Yes,Rock,Rarely,Never,Very frequently,Never,Never,7,4,10,2,Improve
+26,Spotify,2,Yes,Rock,Very frequently,Rarely,Rarely,Never,Rarely,7,5,6,0,Improve
+17,Spotify,2,Yes,R&B,Rarely,Rarely,Never,Very frequently,Sometimes,6,1,0,0,Improve
+22,Spotify,1,Yes,Video game music,Sometimes,Sometimes,Rarely,Rarely,Never,3,6,1,1,Improve
+20,Apple Music,4,Yes,R&B,Sometimes,Rarely,Never,Rarely,Very frequently,9,10,3,0,Improve
+30,Spotify,1,No,Rock,Sometimes,Sometimes,Rarely,Never,Rarely,8,5,8,9,Improve
+26,Other streaming service,4,Yes,Pop,Rarely,Very frequently,Rarely,Never,Never,8,7,7,3,Improve
+19,Spotify,5,Yes,Rock,Sometimes,Rarely,Never,Rarely,Rarely,9,9,9,3,No effect
+21,,5,Yes,Country,Never,Very frequently,Rarely,Never,Rarely,9,8,9,7,Improve
+33,Spotify,7,Yes,Rock,Rarely,Sometimes,Sometimes,Rarely,Very frequently,9,3,7,8,Improve
+28,YouTube Music,2,Yes,Rock,Never,Rarely,Rarely,Rarely,Rarely,10,8,6,2,Improve
+25,Spotify,3,Yes,Rock,Rarely,Never,Sometimes,Rarely,Rarely,9,6,3,0,Improve
+22,YouTube Music,2,Yes,Pop,Rarely,Never,Rarely,Never,Rarely,7,7,8,3,Improve
+19,Spotify,3,Yes,Rock,Sometimes,Never,Sometimes,Never,Never,9,10,4,0,Improve
+44,Other streaming service,3,Yes,Folk,Rarely,Rarely,Rarely,Never,Sometimes,9,9,8,2,Improve
+22,Spotify,3,Yes,Rock,Never,Rarely,Never,Never,Never,9,10,3,9,Improve
+26,Spotify,5,Yes,Metal,Sometimes,Rarely,Very frequently,Sometimes,Rarely,10,9,8,8,Improve
+23,I do not use a streaming service.,6,Yes,Classical,Very frequently,Never,Never,Never,Never,6,5,6,8,Improve
+17,Spotify,2,No,R&B,Sometimes,Never,Rarely,Rarely,Sometimes,8,6,10,3,Improve
+42,YouTube Music,2,No,Metal,Sometimes,Rarely,Sometimes,Never,Sometimes,8,3,6,4,Improve
+30,Spotify,1,No,Rock,Rarely,Never,Rarely,Never,Rarely,4,2,1,3,Improve
+35,Spotify,1,Yes,Pop,Sometimes,Rarely,Sometimes,Rarely,Rarely,2,1,1,1,No effect
+20,Spotify,3,No,Rock,Never,Very frequently,Never,Never,Sometimes,10,10,7,3,Improve
+18,Spotify,3,Yes,Rap,Rarely,Never,Never,Never,Very frequently,8,9,0,0,Improve
+21,Spotify,1,No,Pop,Never,Never,Sometimes,Sometimes,Rarely,4,9,6,2,No effect
+19,Spotify,6,Yes,Rock,Never,Never,Rarely,Never,Sometimes,4,2,0,0,Improve
+37,Spotify,4,Yes,Rock,Rarely,Sometimes,Sometimes,Never,Very frequently,9,2,7,7,Improve
+31,Spotify,2,Yes,Metal,Sometimes,Rarely,Rarely,Rarely,Sometimes,8,6,7,5,Improve
+29,Spotify,2,Yes,Folk,Never,Sometimes,Rarely,Rarely,Rarely,6,5,4,2,Improve
+20,Spotify,3,Yes,Rock,Sometimes,Rarely,Rarely,Never,Rarely,8,5,2,3,Improve
+36,I do not use a streaming service.,8,Yes,Video game music,Sometimes,Rarely,Sometimes,Never,Rarely,7,6,6,1,No effect
+18,Spotify,3,Yes,Rock,Sometimes,Never,Never,Never,Never,10,2,0,0,Improve
+18,Spotify,2,Yes,K pop,Rarely,Never,Sometimes,Very frequently,Never,6,0,0,0,Improve
+25,Spotify,7,Yes,Pop,Never,Sometimes,Very frequently,Very frequently,Sometimes,2,0,1,0,Improve
+18,YouTube Music,12,Yes,K pop,Never,Never,Never,Very frequently,Sometimes,3,7,5,2,Improve
+31,YouTube Music,9,Yes,Pop,Rarely,Rarely,Rarely,Rarely,Rarely,9,0,2,0,Improve
+17,Spotify,2,Yes,Pop,Rarely,Rarely,Rarely,Sometimes,Sometimes,5,4,1,1,Improve
+21,Spotify,1,Yes,Folk,Never,Rarely,Never,Never,Never,8,4,0,1,Improve
+30,Other streaming service,1,No,Country,Never,Very frequently,Never,Never,Sometimes,8,10,2,0,Improve
+40,Apple Music,2,Yes,Metal,Sometimes,Never,Sometimes,Never,Rarely,3,6,2,1,No effect
+64,I do not use a streaming service.,4,Yes,Rock,Sometimes,Rarely,Sometimes,Rarely,Rarely,4,4,2,1,Improve
+14,Spotify,2,Yes,Rock,Rarely,Never,Never,Never,Sometimes,7,5,2,6,Improve
+26,YouTube Music,6,Yes,Rock,Sometimes,Never,Never,Never,Rarely,3,2,0,0,No effect
+35,Spotify,4,Yes,Country,Rarely,Very frequently,Rarely,Rarely,Sometimes,9,9,5,1,Improve
+33,Other streaming service,1,No,Rock,Never,Never,Never,Never,Rarely,3,10,4,1,No effect
+30,Spotify,6,Yes,Folk,Sometimes,Rarely,Never,Never,Never,9,0,5,0,No effect
+31,Spotify,2,No,Metal,Sometimes,Sometimes,Sometimes,Never,Sometimes,7,6,6,5,Improve
+27,Spotify,5,Yes,Folk,Rarely,Never,Sometimes,Sometimes,Never,0,9,4,0,Improve
+53,I do not use a streaming service.,1.5,No,Pop,Rarely,Never,Very frequently,Rarely,Sometimes,2,2,2,1,No effect
+23,Spotify,5,Yes,Metal,Sometimes,Rarely,Never,Never,Never,6,9,2,1,Improve
+25,Spotify,2,Yes,EDM,Rarely,Rarely,Very frequently,Sometimes,Sometimes,6,4,1,0,Improve
+16,Apple Music,4,Yes,K pop,Very frequently,Rarely,Rarely,Very frequently,Rarely,8,9,4,0,Improve
+18,Spotify,2,Yes,Rock,Never,Never,Rarely,Never,Rarely,6,7,4,3,Improve
+29,Spotify,5,Yes,Classical,Very frequently,Never,Never,Never,Never,7,2,2,0,Improve
+31,YouTube Music,6,Yes,EDM,Rarely,Rarely,Very frequently,Never,Sometimes,8,6,5,6,No effect
+31,Spotify,1,No,Rock,Sometimes,Rarely,Never,Never,Rarely,3,10,0,0,Worsen
+38,Spotify,6,Yes,Pop,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,9,4,9,7,Improve
+17,Spotify,4,No,Classical,Very frequently,Never,Never,Rarely,Rarely,7,9,2,8,Worsen
+25,Apple Music,2,No,EDM,Never,Sometimes,Very frequently,Never,Never,10,3,1,4,Improve
+20,Spotify,2,No,Metal,Rarely,Never,Never,Never,Rarely,0,0,0,1,No effect
+15,Spotify,2,Yes,EDM,Never,Never,Very frequently,Never,Sometimes,9,6,1,7,No effect
+16,Spotify,4,Yes,Lofi,Rarely,Rarely,Very frequently,Never,Rarely,7,1,3,5,Improve
+20,Spotify,2,Yes,EDM,Sometimes,Never,Very frequently,Sometimes,Never,9,7,5,7,Improve
+23,Other streaming service,6,Yes,Rap,Never,Never,Sometimes,Sometimes,Sometimes,3,1,2,7,Improve
+22,Spotify,3,Yes,Hip hop,Rarely,Never,Sometimes,Never,Very frequently,6,6,8,0,Improve
+15,I do not use a streaming service.,5,Yes,Rock,Rarely,Never,Very frequently,Never,Never,10,6,0,4,Improve
+17,I do not use a streaming service.,0.5,Yes,Video game music,Rarely,Sometimes,Sometimes,Never,Rarely,6,3,1,1,Improve
+22,YouTube Music,1,Yes,Video game music,Rarely,Never,Rarely,Never,Never,3,3,0,7,No effect
+21,Spotify,10,Yes,Metal,Never,Rarely,Rarely,Rarely,Very frequently,9,10,2,2,No effect
+19,Spotify,2,Yes,Pop,Rarely,Never,Sometimes,Sometimes,Sometimes,7,5,0,2,No effect
+32,Apple Music,0.5,No,Classical,Very frequently,Never,Sometimes,Never,Never,3,0,4,4,No effect
+34,YouTube Music,1,No,Rock,Rarely,Never,Never,Never,Sometimes,9,9,6,4,Improve
+18,I do not use a streaming service.,2,Yes,Metal,Sometimes,Never,Rarely,Never,Rarely,5,7,7,2,Improve
+21,Spotify,3,Yes,Country,Rarely,Very frequently,Never,Never,Never,0,8,0,5,Improve
+20,Spotify,3,No,Country,Rarely,Very frequently,Rarely,Sometimes,Rarely,8,4,3,4,Improve
+19,Spotify,2,Yes,Country,Rarely,Very frequently,Rarely,Never,Never,7,2,0,7,No effect
+25,I do not use a streaming service.,1,No,Pop,Rarely,Never,Never,Never,Rarely,9,9,6,9,No effect
+31,Spotify,8,Yes,Classical,Very frequently,Never,Rarely,Never,Never,5,7,5,4,Improve
+21,Spotify,1,Yes,Pop,Very frequently,Rarely,Rarely,Sometimes,Very frequently,5,1,0,0,Improve
+31,YouTube Music,1,No,Folk,Very frequently,Never,Never,Never,Never,4,1,3,0,Improve
+20,YouTube Music,1,No,Pop,Rarely,Never,Never,Never,Never,3,5,3,0,Improve
+19,Spotify,5,Yes,Rock,Sometimes,Rarely,Never,Never,Rarely,2,2,0,6,Improve
+19,Other streaming service,5,Yes,EDM,Rarely,Never,Very frequently,Never,Very frequently,0,1,3,5,Improve
+23,Spotify,4,Yes,Metal,Rarely,Sometimes,Sometimes,Rarely,Very frequently,7,8,6,2,Improve
+24,I do not use a streaming service.,8,Yes,Video game music,Sometimes,Rarely,Very frequently,Rarely,Sometimes,6,4,8,8,Improve
+20,Other streaming service,0.7,No,Rock,Rarely,Never,Never,Never,Never,5,6,8,2,Improve
+15,Spotify,3,No,Video game music,Rarely,Rarely,Sometimes,Never,Never,6,6,2,6,No effect
+17,Spotify,7,Yes,Hip hop,Never,Never,Rarely,Never,Very frequently,8,9,3,4,Improve
+20,I do not use a streaming service.,1.5,No,Video game music,Very frequently,Never,Never,Never,Never,8,4,3,3,Worsen
+14,Spotify,4,Yes,Video game music,Sometimes,Never,Sometimes,Sometimes,Rarely,8,6,5,7,Improve
+24,Spotify,4,Yes,Metal,Sometimes,Rarely,Never,Never,Rarely,8,8,7,7,Improve
+14,Other streaming service,10,Yes,Video game music,Rarely,Never,Sometimes,Never,Sometimes,5,2,5,0,Improve
+23,Spotify,2,Yes,Rock,Very frequently,Never,Rarely,Never,Sometimes,6,8,4,2,No effect
+28,Apple Music,2,Yes,Rock,Rarely,Never,Never,Rarely,Never,7,5,2,1,No effect
+22,Spotify,6,Yes,Jazz,Sometimes,Rarely,Very frequently,Sometimes,Rarely,8,8,7,1,Improve
+25,Spotify,0.5,Yes,Rock,Rarely,Never,Very frequently,Rarely,Rarely,10,2,0,0,Improve
+27,Spotify,2,Yes,Pop,Sometimes,Rarely,Very frequently,Very frequently,Rarely,8,7,7,5,Improve
+18,Spotify,5,Yes,Rock,Rarely,Never,Rarely,Rarely,Sometimes,8,8,8,6,Improve
+17,Apple Music,3,Yes,Pop,Rarely,Rarely,Never,Never,Very frequently,8,10,9,2,Improve
+23,Other streaming service,4.5,Yes,Rock,Sometimes,Rarely,Never,Rarely,Sometimes,6,1,8,4,No effect
+40,Other streaming service,3,Yes,Rock,Sometimes,Never,Never,Never,Never,0,4,4,0,Improve
+27,Spotify,20,Yes,Rock,Sometimes,Rarely,Sometimes,Sometimes,Rarely,8,10,10,8,No effect
+18,Spotify,1,No,Pop,Rarely,Rarely,Never,Never,Sometimes,3,2,0,1,No effect
+16,Spotify,2.5,No,Metal,Never,Never,Never,Never,Rarely,5,3,3,1,Improve
+18,Spotify,1,No,Rock,Sometimes,Rarely,Never,Never,Rarely,8,9,6,1,Improve
+23,Spotify,2,No,Jazz,Rarely,Rarely,Rarely,Rarely,Rarely,10,3,0,10,No effect
+15,I do not use a streaming service.,5,Yes,Metal,Never,Never,Rarely,Never,Rarely,6,7,8,2,Improve
+20,Apple Music,3,Yes,Metal,Sometimes,Rarely,Never,Never,Rarely,7,4,7,0,Improve
+16,Spotify,3,Yes,Rock,Never,Rarely,Never,Never,Rarely,9,8,6,2,Improve
+16,Spotify,0.5,No,Rock,Sometimes,Never,Rarely,Never,Never,8,0,0,0,Improve
+20,Apple Music,8,Yes,Country,Never,Very frequently,Never,Never,Rarely,8,9,2,5,No effect
+33,Spotify,2,Yes,Metal,Rarely,Rarely,Never,Never,Sometimes,7,2,3,0,Improve
+22,Spotify,3,Yes,Rock,Never,Very frequently,Rarely,Never,Sometimes,10,10,4,0,Improve
+21,Spotify,3,Yes,Hip hop,Never,Never,Rarely,Never,Very frequently,8,8,3,3,Improve
+21,Apple Music,5,Yes,Metal,Rarely,Never,Sometimes,Never,Very frequently,8,7,7,4,Improve
+29,Apple Music,1.5,Yes,Rock,Rarely,Never,Sometimes,Never,Very frequently,8,7,1,2,Improve
+56,I do not use a streaming service.,1,Yes,Pop,Never,Rarely,Never,Never,Never,6,5,10,2,No effect
+17,Spotify,2,Yes,Pop,Sometimes,Never,Never,Never,Rarely,7,6,0,4,Improve
+22,Spotify,1,Yes,Pop,Rarely,Rarely,Sometimes,Never,Never,7,4,0,0,Improve
+26,Spotify,4,Yes,Pop,Sometimes,Sometimes,Rarely,Rarely,Rarely,8,7,2,10,No effect
+30,Spotify,1,Yes,EDM,Never,Never,Very frequently,Never,Sometimes,4,4,4,0,Improve
+49,Spotify,2,Yes,Folk,Rarely,Rarely,Sometimes,Never,Sometimes,0,0,2,0,No effect
+22,Spotify,2,Yes,EDM,Rarely,Sometimes,Very frequently,Rarely,Very frequently,6,4,0,1,Improve
+32,Spotify,2,No,Rock,Never,Rarely,Sometimes,Never,Sometimes,4,7,0,0,Improve
+32,I do not use a streaming service.,1,No,Rock,Rarely,Sometimes,Never,Never,Never,8,4,3,0,No effect
+22,YouTube Music,6,Yes,Country,Never,Very frequently,Never,Never,Sometimes,5,5,3,3,Improve
+17,Spotify,2,Yes,Rock,Never,Rarely,Sometimes,Rarely,Sometimes,0,8,0,0,Improve
+21,Spotify,4,Yes,Rock,Rarely,Never,Never,Never,Never,7,4,6,1,Improve
+17,Spotify,1.5,Yes,Rock,Very frequently,Never,Rarely,Never,Rarely,8,7,7,3,No effect
+25,Spotify,3,Yes,Metal,Sometimes,Sometimes,Rarely,Never,Never,9,8,6,2,Improve
+15,Spotify,4,Yes,Rock,Never,Never,Rarely,Sometimes,Rarely,8,6,4,0,Improve
+13,Spotify,10,Yes,Rap,Never,Never,Rarely,Never,Very frequently,7,2,0,8,Improve
+38,Spotify,3,Yes,Rock,Very frequently,Rarely,Never,Never,Never,6,7,7,7,No effect
+23,Apple Music,3,No,Rock,Rarely,Never,Sometimes,Never,Never,7,6,4,2,Improve
+17,Spotify,3,Yes,Pop,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,1,1,1,0,Improve
+59,YouTube Music,2,Yes,Pop,Rarely,Never,Very frequently,Rarely,Rarely,1,1,3,0,Improve
+22,Spotify,2,Yes,Pop,Rarely,Rarely,Never,Never,Sometimes,2,7,1,2,Improve
+17,Apple Music,3,Yes,Pop,Sometimes,Rarely,Never,Very frequently,Very frequently,6,2,3,1,No effect
+27,Spotify,2,No,Pop,Never,Never,Never,Never,Sometimes,7,7,3,2,No effect
+23,Spotify,5,Yes,Video game music,Sometimes,Never,Sometimes,Rarely,Sometimes,8,7,0,3,No effect
+15,Spotify,6,Yes,Rock,Rarely,Never,Sometimes,Never,Never,8,3,5,2,Improve
+22,Spotify,3,Yes,EDM,Rarely,Rarely,Very frequently,Never,Sometimes,5,4,2,0,Improve
+23,Spotify,5,Yes,Lofi,Very frequently,Rarely,Sometimes,Rarely,Rarely,7,10,10,1,Improve
+19,Spotify,5,Yes,Country,Rarely,Very frequently,Never,Never,Rarely,7,6,8,4,Improve
+32,Spotify,6,Yes,Rock,Never,Rarely,Sometimes,Never,Rarely,8,7,0,9,Improve
+40,Spotify,6,Yes,Rock,Sometimes,Sometimes,Sometimes,Never,Sometimes,10,7,3,3,No effect
+21,Spotify,3,Yes,Country,Never,Very frequently,Rarely,Never,Sometimes,6,5,5,3,Improve
+21,Spotify,10,Yes,Rock,Rarely,Never,Very frequently,Rarely,Rarely,8,7,6,8,No effect
+23,Spotify,2,Yes,Video game music,Sometimes,Never,Very frequently,Sometimes,Sometimes,10,7,7,3,Worsen
+21,YouTube Music,2,Yes,EDM,Rarely,Rarely,Very frequently,Never,Rarely,10,10,5,7,
+35,Spotify,3,No,Folk,Sometimes,Sometimes,Never,Never,Never,8,2,2,8,No effect
+18,Spotify,1.5,No,Hip hop,Never,Never,Never,Never,Sometimes,3,7,4,0,Improve
+21,I do not use a streaming service.,10,Yes,Pop,Never,Rarely,Never,Never,Never,9,7,5,5,Improve
+22,I do not use a streaming service.,2,Yes,Video game music,Never,Never,Rarely,Never,Rarely,5,3,0,0,Improve
+23,Spotify,3,Yes,Rock,Rarely,Rarely,Never,Never,Sometimes,10,7,0,10,Improve
+13,Spotify,2.5,Yes,Folk,Never,Sometimes,Never,Never,Never,8,0,0,3,Improve
+19,Spotify,3,Yes,K pop,Sometimes,Rarely,Rarely,Very frequently,Very frequently,6,0,3,0,Improve
+33,YouTube Music,0.5,Yes,Rock,Sometimes,Never,Rarely,Never,Never,7,9,4,6,Improve
+18,Spotify,16,Yes,Jazz,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,3,2,5,6,Improve
+17,YouTube Music,6,Yes,Classical,Very frequently,Rarely,Never,Rarely,Never,4,2,0,0,Improve
+16,Spotify,3,Yes,EDM,Rarely,Never,Very frequently,Very frequently,Very frequently,4,2,0,0,Improve
+18,YouTube Music,0.5,No,Rock,Rarely,Never,Never,Never,Never,5,3,1,0,No effect
+19,Spotify,5,Yes,K pop,Rarely,Sometimes,Sometimes,Very frequently,Rarely,4,2,2,1,Improve
+15,YouTube Music,2,No,Rap,Very frequently,Sometimes,Never,Sometimes,Very frequently,4,0,6,5,No effect
+17,Spotify,2,Yes,Pop,Never,Never,Never,Rarely,Very frequently,7,6,3,1,Improve
+25,Spotify,2,Yes,Lofi,Sometimes,Rarely,Sometimes,Rarely,Sometimes,7,8,6,2,Improve
+24,Other streaming service,1.5,Yes,Video game music,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,3,4,1,1,Improve
+23,Spotify,1,Yes,Jazz,Rarely,Rarely,Very frequently,Rarely,Never,9,7,2,1,Improve
+16,Spotify,10,Yes,EDM,Rarely,Rarely,Very frequently,Rarely,Sometimes,10,9,3,2,Improve
+25,YouTube Music,2,Yes,Metal,Rarely,Rarely,Rarely,Never,Rarely,9,9,7,3,Improve
+16,Spotify,15,Yes,EDM,Rarely,Never,Very frequently,Never,Very frequently,8,10,9,2,Improve
+20,I do not use a streaming service.,0.5,No,Metal,Sometimes,Rarely,Sometimes,Never,Rarely,8,9,6,4,Improve
+17,Spotify,3,Yes,Metal,Never,Rarely,Rarely,Never,Sometimes,5,6,9,9,Improve
+29,I do not use a streaming service.,2,Yes,Metal,Never,Never,Never,Never,Never,9,3,7,2,Improve
+20,Spotify,4,Yes,Hip hop,Never,Rarely,Very frequently,Never,Very frequently,3,2,1,6,Improve
+16,Spotify,2,Yes,Folk,Never,Never,Never,Never,Rarely,7,7,4,0,Improve
+21,Spotify,1,Yes,Rock,Rarely,Sometimes,Sometimes,Rarely,Sometimes,7,9,1,2,Improve
+16,Spotify,24,Yes,Rock,Never,Never,Rarely,Rarely,Rarely,5,1,9,1,Improve
+43,Spotify,1,Yes,Pop,Sometimes,Never,Never,Never,Rarely,3,3,0,0,Improve
+32,Pandora,2,Yes,Classical,Very frequently,Sometimes,Rarely,Rarely,Rarely,8,7,5,4,Improve
+10,YouTube Music,2,Yes,Pop,Very frequently,Never,Rarely,Very frequently,Rarely,8,2,1,1,Improve
+27,Spotify,3,Yes,Metal,Rarely,Rarely,Sometimes,Sometimes,Very frequently,4,0,0,0,Improve
+24,Spotify,3,Yes,Classical,Very frequently,Never,Never,Never,Rarely,9,6,1,1,Improve
+18,Spotify,2,Yes,Hip hop,Rarely,Never,Rarely,Very frequently,Very frequently,10,7,2,0,Improve
+17,Apple Music,7,Yes,Rock,Never,Never,Never,Never,Never,8,7,7,4,Improve
+19,Spotify,6,Yes,Metal,Sometimes,Never,Never,Never,Never,1,0,0,0,Improve
+16,YouTube Music,3,Yes,Rock,Sometimes,Never,Sometimes,Rarely,Sometimes,5,7,1,4,Improve
+64,Other streaming service,5,Yes,Rock,Sometimes,Rarely,Never,Sometimes,Rarely,7,6,9,2,Improve
+33,Apple Music,4,Yes,Lofi,Sometimes,Rarely,Rarely,Rarely,Sometimes,8,8,2,2,Improve
+32,I do not use a streaming service.,3,Yes,Rock,Very frequently,Sometimes,Sometimes,Rarely,Rarely,2,2,8,0,No effect
+15,Pandora,2,Yes,Pop,Rarely,Sometimes,Never,Rarely,Sometimes,6,0,0,2,Improve
+27,YouTube Music,3,Yes,Metal,Very frequently,Very frequently,Never,Never,Rarely,2,0,1,0,Improve
+20,I do not use a streaming service.,2,Yes,Rock,Rarely,Rarely,Never,Never,Never,6,2,6,7,No effect
+23,I do not use a streaming service.,2,Yes,Pop,Rarely,Very frequently,Never,Rarely,Very frequently,6,1,0,5,Improve
+19,Apple Music,3,No,Classical,Very frequently,Rarely,Never,Never,Never,7,6,4,0,Improve
+12,YouTube Music,2,Yes,Classical,Very frequently,Never,Never,Never,Never,0,0,3,0,Improve
+16,Other streaming service,3,Yes,Classical,Very frequently,Rarely,Never,Never,Never,9,7,10,6,No effect
+17,Other streaming service,0,No,Video game music,Never,Never,Never,Never,Never,10,0,0,0,No effect
+14,Spotify,1,Yes,Pop,Rarely,Rarely,Very frequently,Sometimes,Sometimes,6,6,3,0,Improve
+32,Spotify,2,Yes,Metal,Rarely,Rarely,Very frequently,Rarely,Rarely,4,3,1,6,Improve
+20,Spotify,2,Yes,Pop,Never,Never,Never,Never,Rarely,6,2,2,1,No effect
+54,I do not use a streaming service.,6,Yes,Classical,Very frequently,Sometimes,Never,Rarely,Rarely,2,2,3,2,Improve
+18,Spotify,5,Yes,K pop,Never,Rarely,Rarely,Very frequently,Sometimes,7,4,5,6,Improve
+14,Spotify,2,Yes,Classical,Very frequently,Never,Never,Never,Rarely,7,5,3,2,Improve
+13,Other streaming service,4,Yes,Classical,Very frequently,Never,Sometimes,Rarely,Never,8,5,10,3,Improve
+19,Apple Music,8,Yes,Country,Never,Very frequently,Never,Never,Rarely,7,5,6,5,Improve
+14,Spotify,4,Yes,Classical,Very frequently,Never,Rarely,Rarely,Sometimes,6,8,8,2,Improve
+14,YouTube Music,1.5,No,Classical,Very frequently,Never,Never,Never,Never,1,2,4,3,Improve
+18,Apple Music,2,Yes,Rap,Very frequently,Never,Sometimes,Rarely,Very frequently,3,2,0,2,Improve
+15,Spotify,5,Yes,Folk,Rarely,Sometimes,Never,Never,Sometimes,6,7,7,4,Improve
+24,YouTube Music,6,Yes,Classical,Very frequently,Never,Sometimes,Very frequently,Never,6,7,2,0,No effect
+17,Apple Music,2,Yes,Pop,Rarely,Never,Never,Never,Never,9,8,4,8,Improve
+44,Spotify,2,No,Rock,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,7,7,2,1,Improve
+23,Spotify,1,No,Rock,Sometimes,Never,Never,Never,Never,1,0,1,0,Improve
+21,Apple Music,1,No,Rap,Rarely,Rarely,Never,Never,Sometimes,4,3,4,5,Improve
+57,Other streaming service,2,No,R&B,Rarely,Sometimes,Never,Never,Sometimes,2,0,0,0,Improve
+23,Spotify,2,Yes,Rock,Rarely,Rarely,Never,Never,Sometimes,0,5,7,0,No effect
+18,Spotify,1,Yes,Pop,Sometimes,Rarely,Never,Never,Never,8,7,7,0,Improve
+26,Spotify,14,Yes,Hip hop,Sometimes,Sometimes,Rarely,Rarely,Very frequently,5,10,8,0,No effect
+13,YouTube Music,3,Yes,Classical,Very frequently,Never,Never,Never,Never,8,7,9,2,Improve
+15,Spotify,3,Yes,Classical,Very frequently,Never,Never,Rarely,Never,9,6,8,5,Improve
+57,YouTube Music,2,Yes,Rock,Never,Never,Never,Never,Rarely,2,2,7,0,No effect
+12,Spotify,0.5,Yes,Classical,Very frequently,Never,Never,Never,Never,7,8,6,2,Improve
+26,Spotify,6,Yes,EDM,Never,Never,Very frequently,Never,Rarely,10,10,8,2,No effect
+17,Spotify,1,Yes,Country,Never,Very frequently,Never,Never,Never,8,5,2,3,Improve
+17,Spotify,2,Yes,Classical,Very frequently,Never,Rarely,Rarely,Never,7,8,2,5,Improve
+69,Pandora,4,Yes,Classical,Very frequently,Sometimes,Never,Rarely,Never,1,1,2,0,Improve
+17,Spotify,3,Yes,R&B,Very frequently,Never,Rarely,Very frequently,Very frequently,9,10,10,3,No effect
+32,Spotify,12,Yes,Jazz,Never,Never,Sometimes,Rarely,Rarely,9,4,4,4,Improve
+22,YouTube Music,3,No,Classical,Very frequently,Never,Never,Never,Never,8,2,4,0,No effect
+38,Spotify,1,No,Metal,Rarely,Never,Never,Never,Never,1,1,5,1,Improve
+18,YouTube Music,10,Yes,EDM,Never,Never,Very frequently,Never,Very frequently,10,9,9,8,Improve
+14,Spotify,5,Yes,Classical,Very frequently,Rarely,Rarely,Sometimes,Rarely,3,0,2,3,Improve
+14,Other streaming service,0.5,Yes,Video game music,Very frequently,Never,Never,Sometimes,Never,4,0,4,0,Improve
+19,Spotify,5,Yes,Metal,Rarely,Rarely,Rarely,Never,Rarely,2,3,5,2,Improve
+20,YouTube Music,3,Yes,Classical,Very frequently,Sometimes,Rarely,Rarely,Rarely,2,3,3,0,Improve
+18,Spotify,2,No,Rock,Never,Very frequently,Never,Never,Sometimes,8,4,3,0,Improve
+30,Spotify,13,,K pop,Sometimes,Never,Rarely,Very frequently,Sometimes,10,10,10,7,Improve
+31,I do not use a streaming service.,4,Yes,Classical,Very frequently,Rarely,Never,Never,Never,8,8,9,3,Improve
+72,Spotify,6,Yes,Rock,Never,Sometimes,Never,Never,Never,0,1,0,2,Improve
+73,Pandora,3,Yes,R&B,Sometimes,Very frequently,Rarely,Rarely,Sometimes,5,4,0,1,Improve
+16,Spotify,4,Yes,Pop,Rarely,Rarely,Sometimes,Sometimes,Rarely,7.5,5,7,8.5,Improve
+19,YouTube Music,3,No,Rap,Rarely,Never,Sometimes,Never,Very frequently,3,3,0,0,Improve
+16,Spotify,2,Yes,Classical,Very frequently,Rarely,Never,Never,Never,7,5,3,1,Improve
+12,Spotify,2,Yes,Classical,Very frequently,Rarely,Never,Rarely,Rarely,8,0,1,6,Improve
+39,Spotify,1,Yes,Hip hop,Never,Rarely,Rarely,Rarely,Very frequently,6,4,1,1,Improve
+15,Spotify,6,Yes,K pop,Sometimes,Never,Rarely,Very frequently,Rarely,8,8,7,10,No effect
+14,Spotify,9,Yes,R&B,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10,8,9,5,Improve
+21,Spotify,1,No,Country,Never,Very frequently,Never,Never,Never,3,0,2,0,Improve
+38,Apple Music,1,Yes,Video game music,Rarely,Never,Never,Rarely,Rarely,5,5,7,1,Worsen
+23,Spotify,0.5,No,Hip hop,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,7,7,6,5,Improve
+16,Other streaming service,1,No,EDM,Never,Never,Very frequently,Never,Rarely,7,4,6,3,Improve
+21,Apple Music,1.5,Yes,Folk,Never,Sometimes,Never,Never,Never,3,3,1,0,
+13,Spotify,6,Yes,Rap,Never,Never,Never,Rarely,Very frequently,4,0,0,2,Worsen
+16,Spotify,4,Yes,Rock,Rarely,Sometimes,Sometimes,Sometimes,Never,3,0,6,9,Improve
+18,Spotify,6,Yes,Rock,Sometimes,Rarely,Rarely,Sometimes,Sometimes,5,1,6,0,Improve
+21,Spotify,4,Yes,Metal,Never,Never,Very frequently,Never,Never,10,6,8,0,Improve
+17,Spotify,1.5,Yes,Classical,Very frequently,Rarely,Never,Never,Never,7,5,1,2,No effect
+24,Apple Music,2,Yes,Rock,Rarely,Sometimes,Never,Never,Sometimes,7,7,0,4,No effect
+14,Apple Music,2,Yes,Pop,Rarely,Never,Never,Rarely,Sometimes,6,0,0,0,Improve
+25,Spotify,4,Yes,Rock,Sometimes,Rarely,Rarely,Rarely,Sometimes,6,2,3,2,Improve
+22,Spotify,3,Yes,Lofi,Rarely,Very frequently,Sometimes,Rarely,Rarely,7,6,7,9,Improve
+20,I do not use a streaming service.,4,Yes,Rock,Rarely,Never,Sometimes,Very frequently,Rarely,5,7,7,0,No effect
+23,Spotify,2,Yes,Pop,Sometimes,Rarely,Rarely,Never,Very frequently,7,6,4,3,Improve
+61,Pandora,2,Yes,Rock,Never,Never,Never,Rarely,Never,2,2,2,0,Improve
+24,Spotify,6,Yes,Video game music,Sometimes,Never,Sometimes,Rarely,Never,9,5,0,7,Improve
+34,Spotify,0,No,Rock,Rarely,Rarely,Never,Never,Never,3,7,8,0,Worsen
+49,Spotify,1,No,Pop,Sometimes,Never,Never,Never,Very frequently,4,5,9,1,Improve
+33,I do not use a streaming service.,4,Yes,Rock,Rarely,Sometimes,Rarely,Never,Rarely,1,0,7,0,Improve
+22,I do not use a streaming service.,2,No,Metal,Never,Never,Rarely,Never,Never,3,2,0,2,No effect
+38,Spotify,3,Yes,Metal,Rarely,Never,Never,Never,Rarely,1,6,1,2,Improve
+23,YouTube Music,4,No,Hip hop,Rarely,Rarely,Never,Never,Sometimes,8,10,4,0,No effect
+34,I do not use a streaming service.,2,No,Video game music,Rarely,Rarely,Rarely,Rarely,Sometimes,8,10,10,0,No effect
+40,Other streaming service,3,Yes,Metal,Never,Never,Never,Never,Never,3,0,8,1,No effect
+27,Spotify,1,No,Hip hop,Sometimes,Never,Rarely,Never,Very frequently,3,4,1,0,Improve
+54,YouTube Music,10,Yes,Rock,Sometimes,Sometimes,Never,Never,Never,2,1,2,2,Improve
+16,Spotify,10,No,Rock,Rarely,Very frequently,Never,Never,Rarely,0,0,0,0,No effect
+23,I do not use a streaming service.,10,Yes,Video game music,Rarely,Never,Sometimes,Sometimes,Rarely,8,8,5,0,Improve
+35,Spotify,4,No,Country,Never,Very frequently,Never,Never,Never,1,1,1,0,No effect
+22,YouTube Music,4,Yes,Folk,Rarely,Sometimes,Very frequently,Never,Sometimes,8,7,6,2,Improve
+41,Spotify,3,No,Metal,Very frequently,Rarely,Never,Sometimes,Rarely,6,5,4,0,No effect
+63,Spotify,2,Yes,Rock,Very frequently,Sometimes,Rarely,Never,Never,5,4,6,2,Improve
+28,Spotify,1,No,Rock,Rarely,Rarely,Never,Never,Rarely,3,1,0,2,No effect
+22,Spotify,6,Yes,Country,Rarely,Very frequently,Sometimes,Never,Sometimes,4,8,2,2,Improve
+58,YouTube Music,1,Yes,Rock,Rarely,Sometimes,Rarely,Never,Sometimes,5,6,3,1,Improve
+58,YouTube Music,1,Yes,Classical,Sometimes,Rarely,Never,Rarely,Never,0,0,2,1,Improve
+67,Other streaming service,4,Yes,Rock,Never,Sometimes,Never,Never,Never,7,6,7,4,Improve
+70,I do not use a streaming service.,2,Yes,Country,Sometimes,Very frequently,Never,Never,Never,8,5,6,1,Improve
+60,YouTube Music,2,Yes,Rock,Sometimes,Sometimes,Never,Never,Rarely,4,4,2,0,Improve
+15,Spotify,2,Yes,Pop,Rarely,Rarely,Sometimes,Sometimes,Never,9,8,10,9,Improve
+18,YouTube Music,6,Yes,EDM,Very frequently,Rarely,Very frequently,Never,Very frequently,5,5,7,0,Improve
+58,Other streaming service,3,Yes,Hip hop,Sometimes,Never,Sometimes,Never,Sometimes,4,6,8,1,Improve
+28,Other streaming service,1,Yes,Lofi,Sometimes,Rarely,Rarely,Rarely,Rarely,4,8,5,0,Improve
+22,Spotify,4,Yes,Lofi,Rarely,Rarely,Never,Never,Rarely,9,10,6,7,Improve
+49,YouTube Music,0.5,No,Classical,Very frequently,Sometimes,Rarely,Rarely,Sometimes,3,2,2,2,Improve
+20,YouTube Music,8,Yes,Rock,Never,Rarely,Rarely,Never,Never,6,2,2,1,Improve
+55,YouTube Music,15,Yes,Rock,Rarely,Never,Never,Never,Never,2,0,3,0,No effect
+48,Spotify,1.5,Yes,Metal,Rarely,Never,Rarely,Never,Never,10,8,0,4,Improve
+14,Spotify,2,Yes,K pop,Sometimes,Never,Rarely,Very frequently,Rarely,4,4,2,2,Improve
+18,Spotify,3,Yes,Pop,Sometimes,Never,Sometimes,Very frequently,Very frequently,7,8,6,2,Improve
+25,Spotify,1,Yes,Pop,Very frequently,Rarely,Rarely,Never,Sometimes,7,6,5,5,Improve
+71,I do not use a streaming service.,0.25,Yes,Gospel,Sometimes,Rarely,Never,Never,Never,1,0,0,0,Improve
+60,YouTube Music,1,No,Gospel,Sometimes,Rarely,Never,Never,Rarely,6,2,8,0,Improve
+18,I do not use a streaming service.,1,Yes,Video game music,Rarely,Rarely,Sometimes,Never,Sometimes,4,5,7,0,No effect
+19,Spotify,5,Yes,Hip hop,Rarely,Very frequently,Sometimes,Rarely,Very frequently,10,7,0,0,Improve
+74,I do not use a streaming service.,1,No,Pop,Rarely,Very frequently,Never,Never,Never,4,2,1,0,Improve
+36,Pandora,1,Yes,Hip hop,Sometimes,Never,Never,Never,Sometimes,7,6,2,3,Improve
+14,Spotify,7,Yes,Lofi,Never,Never,Never,Never,Sometimes,3,2,8,0,Improve
+20,Spotify,3,No,Hip hop,Very frequently,Rarely,Rarely,Never,Very frequently,10,7,4,3,Improve
+15,Spotify,3,Yes,K pop,Rarely,Never,Rarely,Very frequently,Very frequently,4,0,0,0,No effect
+19,I do not use a streaming service.,7,Yes,Rock,Sometimes,Rarely,Never,Never,Never,7,7,0,0,Improve
+29,Spotify,8,Yes,EDM,Rarely,Sometimes,Very frequently,Never,Very frequently,6,7,4,1,Improve
+24,Spotify,2,Yes,Metal,Never,Rarely,Very frequently,Never,Never,7,6,2,7,Improve
+18,Apple Music,2,Yes,Pop,Rarely,Rarely,Rarely,Rarely,Very frequently,6,5,8,0,Improve
+21,Spotify,2,Yes,Rock,Sometimes,Never,Never,Rarely,Rarely,10,10,2,3,Improve
+19,Spotify,2,Yes,K pop,Rarely,Never,Rarely,Very frequently,Rarely,7,6,5,1,Improve
+25,Spotify,4,No,Video game music,Sometimes,Never,Never,Rarely,Never,3,0,0,0,Improve
+28,Spotify,8,Yes,Rock,Rarely,Rarely,Rarely,Rarely,Sometimes,8,2,1,0,No effect
+27,Other streaming service,4,Yes,Rap,Rarely,Never,Never,Sometimes,Very frequently,7,6,6,5,Improve
+60,Spotify,1,No,Rock,Sometimes,Rarely,Never,Never,Never,3,2,5,0,No effect
+25,YouTube Music,5,No,Metal,Rarely,Rarely,Never,Never,Never,8,2,1,0,Improve
+60,Other streaming service,2,Yes,Rock,Rarely,Sometimes,Never,Never,Never,7,7,2,4,Improve
+43,Other streaming service,1,No,Country,Never,Very frequently,Never,Never,Never,5,1,1,1,Improve
+51,I do not use a streaming service.,5,Yes,Rock,Sometimes,Rarely,Never,Never,Never,1,2,1,0,No effect
+63,YouTube Music,8,Yes,Rock,Sometimes,Sometimes,Rarely,Never,Never,2,1,2,2,Improve
+64,YouTube Music,2,Yes,Classical,Very frequently,Never,Rarely,Never,Never,5,2,4,0,Improve
+22,Spotify,2,Yes,Pop,Sometimes,Rarely,Sometimes,Rarely,Sometimes,7,2,1,0,Improve
+24,YouTube Music,1,Yes,Folk,Sometimes,Never,Very frequently,Rarely,Sometimes,10,10,7,8,Improve
+19,Spotify,8,Yes,Pop,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,7,2,1,6,Improve
+56,Apple Music,8,Yes,Pop,Sometimes,Rarely,Rarely,Rarely,Sometimes,6,4,1,0,Improve
+20,Spotify,1,No,EDM,Rarely,Never,Very frequently,Rarely,Never,5,9,6,1,Improve
+19,I do not use a streaming service.,1,Yes,Video game music,Very frequently,Never,Never,Rarely,Rarely,7,5,7,0,Improve
+20,Spotify,8,Yes,Jazz,Rarely,Sometimes,Rarely,Rarely,Sometimes,7,6,7,4,Improve
+60,Spotify,2,Yes,Rock,Rarely,Rarely,Never,Never,Never,0,0,0,0,Improve
+65,Apple Music,6,Yes,R&B,Rarely,Rarely,Never,Rarely,Never,3,5,0,2,No effect
+28,Spotify,3,No,Metal,Very frequently,Never,Rarely,Rarely,Never,8,8,5,2,Improve
+18,I do not use a streaming service.,4,Yes,EDM,Very frequently,Never,Very frequently,Never,Rarely,8,7,10,6,Improve
+42,Spotify,2,Yes,Rock,Rarely,Never,Never,Never,Rarely,2,4,5,2,Improve
+80,I do not use a streaming service.,3,Yes,Classical,Very frequently,Rarely,Never,Rarely,Never,7,3,9,2,Improve
+22,I do not use a streaming service.,4,No,Pop,Rarely,Sometimes,Very frequently,Never,Rarely,8,7,4,4,Improve
+56,Other streaming service,2,No,Jazz,Sometimes,Never,Sometimes,Never,Never,0,0,0,5,No effect
+20,YouTube Music,1,Yes,Pop,Never,Never,Sometimes,Very frequently,Rarely,8,6,9,8,Improve
+15,Spotify,1,Yes,Video game music,Never,Rarely,Sometimes,Never,Rarely,4,2,3,2,Improve
+67,I do not use a streaming service.,1,No,Rock,Sometimes,Sometimes,Never,Never,Sometimes,3,2,2,2,
+57,Spotify,2,Yes,Gospel,Sometimes,Never,Never,Never,Never,6,4,10,0,Improve
+22,Apple Music,7,Yes,Pop,Never,Never,Sometimes,Very frequently,Very frequently,8,8,10,0,Improve
+17,Spotify,5,Yes,Pop,Never,Never,Sometimes,Very frequently,Sometimes,5,5,5,5,Improve
+19,Spotify,3,Yes,Rock,Never,Very frequently,Never,Never,Sometimes,10,8,6,2,No effect
+50,I do not use a streaming service.,1,No,Rock,Sometimes,Sometimes,Never,Rarely,Sometimes,0,0,7,0,Improve
+24,Spotify,6,Yes,Rock,Never,Rarely,Sometimes,Sometimes,Rarely,8,8,10,0,Improve
+67,Apple Music,2,No,Rock,Sometimes,Never,Never,Never,Never,8,2,0,0,No effect
+18,Other streaming service,3,Yes,Metal,Sometimes,Sometimes,Never,Never,Rarely,7,8,4,10,Improve
+20,Spotify,1.5,Yes,Country,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,0,2,0,1,Improve
+15,Spotify,4,Yes,Pop,Never,Rarely,Never,Rarely,Sometimes,3,5,4,0,Improve
+17,Spotify,2,Yes,Pop,Rarely,Never,Never,Very frequently,Sometimes,5,2,3,1,Improve
+32,YouTube Music,2,Yes,Folk,Never,Never,Sometimes,Never,Sometimes,6,1,0,0,Improve
+18,Spotify,2,No,Rap,Rarely,Never,Never,Never,Very frequently,6,3,4,2,Improve
+18,Spotify,1,Yes,Rock,Sometimes,Never,Sometimes,Never,Rarely,5,6,8,2,Improve
+18,Spotify,3,Yes,K pop,Sometimes,Never,Never,Very frequently,Rarely,8,4,7,5,Improve
+19,Spotify,3,Yes,Pop,Never,Never,Very frequently,Rarely,Very frequently,1,1,2,3,Improve
+18,Spotify,2,No,Rock,Never,Never,Never,Never,Rarely,8,3,1,3,Improve
+17,Other streaming service,6,Yes,Rap,Rarely,Never,Rarely,Never,Very frequently,3,3,0,0,Improve
+34,Spotify,3,Yes,Classical,Very frequently,Never,Never,Never,Never,0,0,0,0,No effect
+18,YouTube Music,3,Yes,Pop,Rarely,Rarely,Sometimes,Rarely,Very frequently,5,4,2,0,No effect
+18,Spotify,2,Yes,R&B,Never,Never,Never,Never,Very frequently,2,4,0,0,Improve
+22,I do not use a streaming service.,2,Yes,Video game music,Sometimes,Rarely,Rarely,Rarely,Never,4,6,0,2,Improve
+18,Spotify,2,Yes,Pop,Sometimes,Rarely,Sometimes,Rarely,Never,5,7,2,0,Improve
+19,Spotify,3,Yes,Rock,Sometimes,Rarely,Rarely,Rarely,Sometimes,4,0,7,0,No effect
+25,I do not use a streaming service.,4,Yes,Pop,Rarely,Never,Sometimes,Rarely,Very frequently,10,8,6,2,No effect
+17,Spotify,2,Yes,R&B,Very frequently,Rarely,Never,Sometimes,Rarely,3,3,1,0,Improve
+25,Spotify,5,Yes,Rock,Sometimes,Sometimes,Rarely,Rarely,Sometimes,8,7,2,1,Improve
+18,Spotify,2,Yes,R&B,Sometimes,Rarely,Never,Never,Sometimes,3,3,0,3,Improve
+21,Spotify,1,,K pop,Rarely,Rarely,Sometimes,Very frequently,Sometimes,4,5,2,5,
+24,Spotify,7,Yes,Folk,Sometimes,Rarely,Rarely,Never,Rarely,10,10,8,10,Improve
+16,Spotify,3,Yes,K pop,Rarely,Never,Sometimes,Very frequently,Sometimes,10,2,7,8,Improve
+18,Spotify,3,No,Metal,Never,Never,Never,Never,Sometimes,9,6,8,5,Improve
+18,Spotify,4,Yes,R&B,Rarely,Rarely,Rarely,Never,Very frequently,6,4,1,6,Improve
+16,Spotify,3,Yes,Pop,Very frequently,Never,Never,Never,Never,3,4,6,8,Improve
+68,Pandora,1,Yes,Gospel,Very frequently,Never,Never,Never,Never,10,10,10,0,Improve
+16,Spotify,7,Yes,Video game music,Never,Rarely,Sometimes,Never,Very frequently,4,8,8,4,No effect
+21,Spotify,1,No,R&B,Never,Never,Never,Never,Sometimes,3,0,0,0,Improve
+53,Pandora,4,Yes,R&B,Rarely,Sometimes,Rarely,Sometimes,Sometimes,1,0,0,0,Improve
+29,Spotify,4,Yes,Classical,Very frequently,Never,Very frequently,Never,Never,5,6,7,7,No effect
+18,Spotify,3,Yes,Video game music,Sometimes,Never,Never,Rarely,Never,7,0,3,1,No effect
+29,Spotify,2,Yes,Pop,Never,Never,Rarely,Never,Very frequently,10,8,8,9,Improve
+18,Spotify,4,Yes,R&B,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,3,0,3,4,Improve
+22,Spotify,5,Yes,EDM,Never,Never,Very frequently,Never,Very frequently,1,0,0,1,No effect
+19,Other streaming service,6,Yes,Pop,Sometimes,Rarely,Rarely,Sometimes,Sometimes,6,6,0,0,Improve
+13,YouTube Music,1,Yes,Video game music,Never,Never,Sometimes,Never,Never,4,3,4,0,Improve
+26,I do not use a streaming service.,1,No,Pop,Never,Rarely,Sometimes,Sometimes,Rarely,6,4,0,0,Improve
+14,Spotify,3,Yes,Rock,Never,Never,Never,Never,Never,2,6,3,0,Worsen
+27,Spotify,1,Yes,Pop,Rarely,Rarely,Rarely,Very frequently,Sometimes,8,3,3,3,Improve
+26,Spotify,8,No,Rock,Never,Sometimes,Sometimes,Very frequently,Very frequently,8,10,7,3,No effect
+59,Other streaming service,1,No,Rock,Rarely,Never,Never,Never,Never,1,0,0,1,Improve
+30,Spotify,8,Yes,Rock,Sometimes,Sometimes,Never,Never,Sometimes,8,6,6,8,Improve
+27,Spotify,1,Yes,Pop,Never,Rarely,Sometimes,Rarely,Sometimes,6,3,1,7,Improve
+18,Apple Music,1,No,Rap,Rarely,Never,Never,Never,Very frequently,2,0,3,0,Improve
+23,I do not use a streaming service.,10,Yes,Metal,Never,Never,Never,Never,Never,0,0,0,0,No effect
+18,Spotify,10,Yes,Rock,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,10,10,6,6,Improve
+40,Spotify,5,Yes,Rock,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,3,0,0,1,Improve
+24,Spotify,10,Yes,Rock,Sometimes,Never,Never,Never,Never,7,9,10,0,Improve
+23,Spotify,2,Yes,Classical,Very frequently,Never,Rarely,Never,Never,8,7,6,2,Improve
+56,Other streaming service,6,Yes,R&B,Never,Never,Never,Never,Never,2,0,10,10,Improve
+29,Other streaming service,2,Yes,R&B,Rarely,Never,Very frequently,Rarely,Rarely,10,7,9,3,No effect
+16,Other streaming service,3,Yes,Pop,Never,Never,Never,Very frequently,Never,6,0,0,0,Improve
+18,Spotify,8,Yes,Gospel,Rarely,Never,Rarely,Never,Sometimes,3,0,2,2,Improve
+21,Spotify,8,Yes,Lofi,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,6,5,9,8,Improve
+32,Spotify,8,Yes,Rock,Never,Never,Never,Never,Sometimes,7,6,5,8,Improve
+22,YouTube Music,8,Yes,Metal,Sometimes,Never,Sometimes,Never,Never,10,7,8,6,Improve
+17,Spotify,12,Yes,Latin,Very frequently,Never,Rarely,Rarely,Very frequently,0,3,9,5,No effect
+18,Spotify,6,Yes,EDM,Rarely,Never,Very frequently,Very frequently,Very frequently,0,2,1,5,Improve
+18,Spotify,4,Yes,R&B,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,2,0,0,0,No effect
+24,Spotify,8,Yes,Jazz,Very frequently,Never,Rarely,Never,Sometimes,2,2,4,0,No effect
+21,Spotify,2,No,Pop,Rarely,Never,Never,Never,Sometimes,5,6,3,4,No effect
+46,I do not use a streaming service.,1,No,Rock,Never,Sometimes,Never,Never,Never,0,0,1,0,No effect
+18,Spotify,2,Yes,Hip hop,Never,Never,Never,Never,Very frequently,5,4,3,7,Improve
+16,Spotify,3,Yes,K pop,Rarely,Never,Rarely,Very frequently,Very frequently,2,7,0,0,Improve
+21,Spotify,1,Yes,Video game music,Very frequently,Very frequently,Rarely,Never,Sometimes,0,6,0,4,Improve
+19,I do not use a streaming service.,0,No,Classical,Very frequently,Rarely,Sometimes,Rarely,Rarely,0,0,0,0,Improve
+20,Spotify,2,Yes,Rap,Sometimes,Never,Rarely,Never,Very frequently,7,5,1,3,Improve
+21,Other streaming service,0.1,Yes,Folk,Sometimes,Never,Never,Never,Rarely,7,5,3,1,No effect
+56,I do not use a streaming service.,2,Yes,Rock,Rarely,Never,Never,Never,Rarely,3,3,1,8,No effect
+21,Spotify,12,Yes,Rock,Sometimes,Rarely,Very frequently,Rarely,Sometimes,7,10,4,7,Worsen
+20,Spotify,1,Yes,Pop,Rarely,Never,Never,Rarely,Rarely,3,2,3,0,Improve
+21,Apple Music,1,Yes,Rock,Sometimes,Never,Rarely,Never,Never,5,1,1,9,Improve
+25,Spotify,3,Yes,Rock,Never,Rarely,Never,Never,Never,8,9,4,10,Improve
+33,Spotify,2,Yes,Metal,Rarely,Never,Never,Never,Sometimes,4,8,0,0,Improve
+20,Spotify,2,Yes,Rock,Rarely,Rarely,Rarely,Rarely,Sometimes,7,9,7,0,Improve
+17,Spotify,3,Yes,Rock,Sometimes,Sometimes,Sometimes,Rarely,Rarely,1,5,6,4,No effect
+24,YouTube Music,1,No,Jazz,Rarely,Never,Sometimes,Rarely,Never,3,2,1,0,No effect
+26,Spotify,3,Yes,Jazz,Rarely,Rarely,Rarely,Never,Rarely,6,8,0,0,Improve
+17,YouTube Music,3,Yes,Rock,Rarely,Rarely,Never,Never,Sometimes,6,3,6,0,Improve
+16,Spotify,5,Yes,Metal,Sometimes,Never,Never,Never,Sometimes,7,4,8,0,Improve
+27,Spotify,8,Yes,Metal,Never,Never,Rarely,Never,Rarely,2,6,9,1,No effect
+28,Spotify,4,Yes,Hip hop,Rarely,Sometimes,Sometimes,Never,Very frequently,8,5,3,8,Improve
+48,I do not use a streaming service.,5,Yes,Rock,Very frequently,Sometimes,Sometimes,Never,Rarely,3,3,0,0,Improve
+19,Spotify,3,Yes,Rap,Never,Never,Rarely,Rarely,Very frequently,7,5,3,3,Improve
+21,YouTube Music,4,Yes,Rock,Sometimes,Very frequently,Rarely,Never,Sometimes,4,8,2,3,Improve
+21,I do not use a streaming service.,1,Yes,Classical,Very frequently,Never,Never,Never,Never,3,0,0,5,Improve
+15,Spotify,4,Yes,Metal,Rarely,Never,Sometimes,Rarely,Sometimes,10,7,3,2,Improve
+20,Spotify,1,No,Rock,Sometimes,Sometimes,Rarely,Never,Rarely,10,4,8,0,Improve
+21,YouTube Music,2,Yes,Video game music,Sometimes,Never,Rarely,Never,Never,2,2,0,0,Improve
+22,Spotify,6,Yes,Folk,Never,Rarely,Sometimes,Never,Rarely,8,7,7,3,Improve
+22,Spotify,2,No,Rock,Rarely,Never,Never,Rarely,Never,10,5,2,8,Improve
+31,Spotify,1,Yes,Rock,Very frequently,Rarely,Sometimes,Rarely,Very frequently,9,10,10,6,No effect
+20,YouTube Music,4,Yes,Metal,Rarely,Sometimes,Never,Never,Never,5,2,1,6,Improve
+49,I do not use a streaming service.,8,Yes,Classical,Very frequently,Never,Never,Never,Never,4,8,9,1,Improve
+42,Spotify,2,Yes,Metal,Sometimes,Rarely,Never,Sometimes,Never,7,8,5,3,Improve
+26,Spotify,2,Yes,EDM,Rarely,Sometimes,Very frequently,Never,Sometimes,2,2,0,3,No effect
+17,Spotify,10,Yes,K pop,Rarely,Sometimes,Rarely,Very frequently,Very frequently,10,3,0,4,Improve
+30,I do not use a streaming service.,0,No,Metal,Rarely,Never,Rarely,Never,Rarely,10,10,10,9,Improve
+23,Spotify,6,Yes,Folk,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,3,7,7,4,No effect
+30,Apple Music,3,Yes,EDM,Rarely,Never,Very frequently,Very frequently,Sometimes,7,5,7,7,Improve
+31,Spotify,2,Yes,Metal,Rarely,Sometimes,Never,Never,Rarely,7,4,8,8,Improve
+42,Other streaming service,0.25,No,Classical,Very frequently,Rarely,Never,Never,Rarely,7,9,4,5,Improve
+16,Other streaming service,4,Yes,EDM,Sometimes,Never,Very frequently,Rarely,Never,4,7,1,3,Improve
+34,YouTube Music,2,No,Metal,Sometimes,Rarely,Never,Rarely,Rarely,5,9,9,6,Improve
+21,YouTube Music,2,Yes,Pop,Sometimes,Never,Very frequently,Rarely,Rarely,5,4,10,7,No effect
+27,YouTube Music,3,Yes,Pop,Rarely,Rarely,Rarely,Rarely,Sometimes,7,2,0,1,Improve
+18,Spotify,6,Yes,Folk,Never,Very frequently,Very frequently,Rarely,Sometimes,8,6,0,2,Improve
+26,Spotify,3,No,Metal,Rarely,Very frequently,Never,Never,Sometimes,1,3,10,0,No effect
+37,Spotify,2,Yes,Rock,Never,Never,Never,Never,Rarely,8,10,10,2,Worsen
+26,Spotify,5,Yes,Folk,Sometimes,Rarely,Rarely,Never,Very frequently,4,7,6,0,No effect
+19,Spotify,4,No,Pop,Never,Never,Sometimes,Sometimes,Sometimes,9,6,3,0,No effect
+22,Spotify,4,Yes,Rock,Never,Rarely,Never,Never,Rarely,10,7,4,4,Improve
+43,I do not use a streaming service.,0,No,Rock,Rarely,Never,Never,Never,Rarely,1,2,2,0,No effect
+24,I do not use a streaming service.,12,Yes,Rock,Sometimes,Rarely,Never,Never,Rarely,7,10,0,8,Improve
+21,I do not use a streaming service.,0.5,No,Pop,Never,Never,Never,Sometimes,Never,10,2,1,10,Worsen
+28,I do not use a streaming service.,1,Yes,Rock,Rarely,Rarely,Never,Never,Never,2,1,2,2,Improve
+23,YouTube Music,3,Yes,R&B,Very frequently,Never,Never,Never,Very frequently,3,10,0,0,No effect
+20,Apple Music,12,No,Rock,Never,Sometimes,Rarely,Rarely,Sometimes,7,10,2,0,Improve
+17,Spotify,4,Yes,Metal,Never,Rarely,Very frequently,Never,Never,4,2,0,0,Improve
+19,Spotify,3,Yes,R&B,Rarely,Rarely,Rarely,Rarely,Sometimes,4,2,5,3,Improve
+32,Spotify,1,Yes,Metal,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,6,8,7,0,Improve
+18,YouTube Music,4,No,Folk,Sometimes,Very frequently,Sometimes,Never,Rarely,8,6,4,0,Improve
+20,Other streaming service,2,Yes,Rock,Sometimes,Rarely,Never,Rarely,Never,2,2,0,0,No effect
+27,Spotify,3,Yes,Rock,Rarely,Never,Very frequently,Never,Rarely,8,7,9,3,Improve
+15,Spotify,3,Yes,Rock,Sometimes,Never,Never,Never,Never,4,3,5,0,No effect
+26,Spotify,1,Yes,Rock,Rarely,Rarely,Sometimes,Never,Rarely,6,1,0,4,No effect
+24,Spotify,2,Yes,Pop,Never,Never,Never,Rarely,Sometimes,6,6,3,6,Improve
+20,Spotify,1,Yes,K pop,Sometimes,Never,Rarely,Very frequently,Never,8,7,1,1,No effect
+21,YouTube Music,0.5,Yes,Pop,Never,Rarely,Never,Rarely,Rarely,5,3,4,1,Improve
+16,Spotify,2,Yes,Video game music,Very frequently,Never,Never,Never,Rarely,6,2,4,3,Improve
+21,Spotify,11,Yes,Metal,Rarely,Rarely,Sometimes,Rarely,Very frequently,5,6,6,0,Improve
+27,Spotify,10,Yes,Jazz,Very frequently,Never,Never,Rarely,Rarely,6,10,8,1,Improve
+17,Spotify,5,Yes,Rock,Very frequently,Rarely,Rarely,Never,Very frequently,7,3,9,7,Improve
+21,Spotify,1.5,Yes,Classical,Very frequently,Rarely,Very frequently,Never,Sometimes,4,6,0,0,No effect
+17,Spotify,2,Yes,Folk,Very frequently,Sometimes,Never,Never,Never,9,4,0,1,Improve
+21,Spotify,3,No,Rap,Sometimes,Never,Never,Never,Very frequently,9,7,7,5,Improve
+17,YouTube Music,2,No,Rock,Sometimes,Sometimes,Sometimes,Never,Sometimes,5,10,2,7,No effect
+36,YouTube Music,3,Yes,Country,Very frequently,Very frequently,Sometimes,Very frequently,Never,1,0,1,0,Improve
+18,Spotify,4,No,R&B,Rarely,Never,Rarely,Very frequently,Very frequently,8,7,2,6,Improve
+18,Spotify,1,No,K pop,Never,Never,Rarely,Very frequently,Rarely,5,1,4,0,Improve
+18,Apple Music,5,Yes,Latin,Very frequently,Sometimes,Rarely,Sometimes,Rarely,10,6,0,0,Improve
+18,Apple Music,2,Yes,R&B,Never,Never,Never,Very frequently,Very frequently,7,5,5,5,Improve
+18,Spotify,7,Yes,Hip hop,Very frequently,Rarely,Never,Rarely,Sometimes,3,1,0,3,Improve
+18,Spotify,2,Yes,Rap,Rarely,Never,Rarely,Rarely,Very frequently,5,8,7,4,Improve
+18,I do not use a streaming service.,1,Yes,Classical,Sometimes,Sometimes,Rarely,Rarely,Rarely,2,0,0,5,No effect
+18,I do not use a streaming service.,1,No,Classical,Very frequently,Never,Sometimes,Never,Rarely,7,0,0,0,No effect
+18,Spotify,4,Yes,R&B,Never,Rarely,Never,Never,Sometimes,8,0,0,2,No effect
+20,Spotify,6,Yes,R&B,Rarely,Never,Never,Sometimes,Very frequently,4,1,1,0,Improve
+19,Spotify,3,Yes,Hip hop,Sometimes,Never,Rarely,Rarely,Very frequently,3,8,0,2,Improve
+17,Spotify,4,Yes,Hip hop,Sometimes,Never,Never,Never,Very frequently,7,0,2,2,Improve
+23,Spotify,4,Yes,Video game music,Rarely,Rarely,Very frequently,Rarely,Sometimes,10,8,10,0,Improve
+18,YouTube Music,1,Yes,Pop,Never,Rarely,Never,Sometimes,Sometimes,7,1,1,1,Improve
+19,Spotify,2,Yes,Pop,Rarely,Never,Sometimes,Sometimes,Rarely,5,9,1,7,No effect
+89,Spotify,24,Yes,Rap,Never,Never,Rarely,Never,Very frequently,0,0,0,0,No effect
+20,Spotify,5,Yes,R&B,Very frequently,Sometimes,Never,Very frequently,Very frequently,10,6,3,8,Improve
+16,Spotify,3,No,Rock,Rarely,Never,Never,Never,Sometimes,7,3.5,3.5,5.5,Improve
+17,Spotify,4,Yes,Country,Sometimes,Very frequently,Never,Very frequently,Rarely,2,0,0,2,Improve
+16,Spotify,9,Yes,Metal,Rarely,Never,Never,Rarely,Rarely,10,10,10,8,Improve
+20,YouTube Music,1,Yes,Pop,Sometimes,Rarely,Rarely,Never,Sometimes,8,9,6,5,Worsen
+30,YouTube Music,1,Yes,Rock,Sometimes,Rarely,Rarely,Sometimes,Rarely,9,7,8,4,Improve
+37,Spotify,2,Yes,Folk,Sometimes,Sometimes,Never,Never,Rarely,6,4,5,0,Improve
+44,YouTube Music,1.5,No,Folk,Rarely,Very frequently,Never,Never,Sometimes,8,5,9,4,Improve
+21,Spotify,2,Yes,Metal,Never,Rarely,Rarely,Never,Sometimes,3,7,0,0,Improve
+19,Spotify,4,Yes,Pop,Sometimes,Sometimes,Never,Never,Never,9,1,0,9,Improve
+23,Spotify,1,Yes,Rock,Rarely,Rarely,Sometimes,Rarely,Sometimes,8,6,1,4,Improve
+26,Spotify,1,No,Country,Sometimes,Very frequently,Sometimes,Never,Never,4,1,1,6,Improve
+18,Spotify,3,Yes,Video game music,Sometimes,Never,Never,Never,Rarely,6,5,3,1,No effect
+35,Spotify,4,Yes,Hip hop,Sometimes,Rarely,Rarely,Never,Very frequently,7,8,6,5,Improve
+16,Spotify,8,Yes,Rock,Very frequently,Never,Rarely,Rarely,Never,8,9,5,10,Improve
+19,Spotify,5,Yes,Metal,Never,Never,Very frequently,Never,Rarely,8,6,7,0,Improve
+23,I do not use a streaming service.,3,Yes,Rock,Never,Never,Never,Never,Never,10,5,2,0,Improve
+17,YouTube Music,8,Yes,Pop,Rarely,Never,Very frequently,Never,Rarely,5,2,4,7,No effect
+29,Apple Music,1,No,Country,Sometimes,Very frequently,Never,Never,Rarely,9,3,2,0,No effect
+21,Spotify,4,Yes,Pop,Rarely,Sometimes,Never,Never,Rarely,4,6,3,4,Improve
+17,Spotify,1,No,Metal,Sometimes,Never,Never,Rarely,Rarely,9,8,4,0,Improve
+23,Spotify,2,No,Rock,Rarely,Never,Rarely,Rarely,Sometimes,5,7,10,2,No effect
+17,Spotify,1,Yes,Metal,Rarely,Never,Rarely,Never,Never,8,3,9,2,No effect
+22,Spotify,3,Yes,Video game music,Rarely,Rarely,Sometimes,Rarely,Rarely,10,10,6,8,Improve
+17,Spotify,5,Yes,Hip hop,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,7,7,5,5,Improve
+19,Spotify,5,Yes,Pop,Very frequently,Sometimes,Rarely,Very frequently,Rarely,10,8,1,0,Improve
+19,Spotify,4,Yes,Pop,Sometimes,Rarely,Sometimes,Rarely,Sometimes,8,6,2,0,Improve
+16,Spotify,6,Yes,Pop,Rarely,Rarely,Sometimes,Very frequently,Very frequently,10,7,6,10,Improve
+19,Spotify,6,Yes,Pop,Rarely,Rarely,Rarely,Sometimes,Rarely,6,6,8,0,Improve
+13,Spotify,1,Yes,Video game music,Rarely,Sometimes,Never,Rarely,Sometimes,10,10,8,4,Worsen
+18,Apple Music,18,Yes,EDM,Sometimes,Rarely,Very frequently,Never,Sometimes,9,8,5,10,Improve
+26,YouTube Music,1,Yes,Metal,Sometimes,Rarely,Sometimes,Never,Never,0,0,0,0,No effect
+14,Other streaming service,7,Yes,Country,Rarely,Very frequently,Sometimes,Never,Sometimes,7,3,1,2,Improve
+21,I do not use a streaming service.,0.5,No,Pop,Never,Rarely,Sometimes,Sometimes,Sometimes,6,2,2,0,Improve
+21,Spotify,2,Yes,R&B,Sometimes,Never,Sometimes,Very frequently,Sometimes,7,6,4,6,Improve
+17,Spotify,2,Yes,Rock,Very frequently,Rarely,Never,Never,Rarely,7,6,0,9,Improve
+18,Spotify,1,Yes,Pop,Rarely,Rarely,Never,Never,Never,3,2,2,5,Improve
+19,Other streaming service,6,Yes,Rap,Rarely,Sometimes,Sometimes,Rarely,Sometimes,2,2,2,2,Improve
+19,Spotify,5,Yes,Classical,Very frequently,Never,Never,Never,Never,2,3,2,1,Improve
+29,YouTube Music,2,Yes,Hip hop,Sometimes,Rarely,Very frequently,Sometimes,Very frequently,2,2,2,5,Improve
